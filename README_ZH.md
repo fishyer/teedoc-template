@@ -5,6 +5,7 @@ teedoc 网站模板
 
 此模板使用于 teedoc: [teedoc.neucrack.com](https://teedoc.neucrack.com/) 或 [teedoc.github.io](https://teedoc.github.io) learn more
 
+为什么没有触发Vercel的构建呢？
 
 ## 快速开始
 
